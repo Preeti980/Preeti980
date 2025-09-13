@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Priti Chauhan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer, Backend Developer and Full Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preeti980&label=Profile%20views&color=0e75b6&style=flat" alt="preeti980" /> </p>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I've completed **MERN** currently learning **Python**
 
-- 💬 Ask me about **HTML , CSS , JavaScript , React , NodeJS, MongoDB and Express,**
+- 💬 Ask me about **HTML , CSS , JavaScript , React , NodeJS, MongoDB and Express, Python, MySQL, Django**
 
 - 📄 Know about my experiences [www.linkedin.com/in/preeti-chauhan-352101256](www.linkedin.com/in/preeti-chauhan-352101256)
 
