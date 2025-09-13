@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **HTML , CSS , JavaScript , React , NodeJS, MongoDB and Express, Python, MySQL, Django**
 
-- 📄 Know about my experiences [www.linkedin.com/in/preeti-chauhan-352101256](www.linkedin.com/in/preeti-chauhan-352101256)
+- 📄 Know about my experiences [www.linkedin.com/in/preeti-chauhan-352101256](https://www.linkedin.com/in/preeti-chauhan-352101256/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
